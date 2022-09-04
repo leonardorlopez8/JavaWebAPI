@@ -1,0 +1,9 @@
+package com.educacionit.interfaces;
+
+public interface DAO {
+
+	//Busca un usuario
+	E buscar();
+	
+	
+}

@@ -1,0 +1,24 @@
+<%@page import="com.educacionit.entidades.Usuario" %>
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Mi primera sesion</title>
+</head>
+<body>
+
+<!-- Creamos la clase de java y mostramos el mensaje desde un scriptlets -->
+
+<%
+ String mensaje = (String) request.getAttribute("mensaje");
+ Usuario usuario = (Usuario) request.getAttribute("usuario");
+ String id = (String) request.getAttribute("id");
+  
+%>
+
+
+
+</body>
+</html>

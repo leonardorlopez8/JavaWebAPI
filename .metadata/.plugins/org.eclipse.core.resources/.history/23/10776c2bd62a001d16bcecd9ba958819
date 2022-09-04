@@ -1,0 +1,14 @@
+package com.educacionit.entidades;
+
+import java.util.Date;
+
+public class Usuario {
+
+	private String correo;
+	private String clave;
+	private Date fechaActualizacion;
+	private Date fechaCreacion;
+	
+	
+	
+}

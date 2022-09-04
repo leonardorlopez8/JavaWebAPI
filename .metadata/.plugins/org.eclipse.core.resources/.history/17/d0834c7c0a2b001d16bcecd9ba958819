@@ -1,0 +1,7 @@
+package com.educacionit.implementacion.mysql;
+
+import com.educacionit.interfaces.DAO;
+
+public class UsuarioImplementacion implements DAO<Usuario, String>, ConexionMySQL{
+
+}
