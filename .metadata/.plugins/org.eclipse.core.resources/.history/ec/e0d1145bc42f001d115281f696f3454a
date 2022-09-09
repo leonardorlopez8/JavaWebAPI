@@ -1,0 +1,34 @@
+package com.educacionit.DAO;
+
+import com.educacionit.entidades.Usuario;
+import com.educacionit.implementacion.mysql.UsuarioImplementacion;
+
+public class App 
+{
+    public static void main( String[] args )
+    {
+      UsuarioImplementacion implementacion = new UsuarioImplementacion();
+      //ponemos un breakpoint en el buscar()
+    	
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,41 @@
+package com.educacionit.DAO;
+
+import com.educacionit.entidades.Usuario;
+import com.educacionit.implementacion.mysql.UsuarioImplementacion;
+
+public class App 
+{
+    public static void main( String[] args )
+    {
+      UsuarioImplementacion implementacion = new UsuarioImplementacion();
+      //ponemos un breakpoint en el buscar()
+      //Busco un correo y me devuelve un Usuario
+      System.out.println(implementacion.buscar("user1@gmail.com"));
+      
+      //Si volvemos a buscar, en la 2da busqueda no va a entrar en el IF
+      System.out.println(implementacion.buscar("user1@gmail.com"));
+      
+      
+      
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

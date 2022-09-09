@@ -8,6 +8,7 @@
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
 		<list key="findhistory">
+			<item value="getFechaAString"/>
 			<item value="login"/>
 		</list>
 		<list key="replacehistory">
