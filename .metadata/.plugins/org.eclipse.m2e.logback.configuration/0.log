@@ -1862,3 +1862,449 @@
 2022-09-08 22:06:05,379 [Worker-144: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-09-08 22:06:05,380 [Worker-144: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\DAO\src\main\resources
 2022-09-08 22:06:05,383 [Worker-144: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-08 22:06:05,384 [Worker-144: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\DAO\src\test\resources
+2022-09-08 22:23:42,589 [Worker-148: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\pom.xml
+2022-09-08 22:23:45,825 [Worker-148: Creating maven-archetype-webapp] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:WebService:0.0.1-SNAPSHOT @ C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\pom.xml.
+2022-09-08 22:23:48,508 [Worker-148: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WebService/src/main/java
+2022-09-08 22:23:48,509 [Worker-148: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WebService/src/test/java
+2022-09-08 22:23:50,353 [Worker-148: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 7 sec
+2022-09-08 22:23:51,132 [Worker-148: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-08 22:23:51,133 [Worker-148: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\main\resources
+2022-09-08 22:23:51,136 [Worker-148: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-08 22:23:51,137 [Worker-148: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\test\resources
+2022-09-08 22:24:54,752 [Worker-152: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:WebService:0.0.1-SNAPSHOT @ C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\pom.xml.
+2022-09-08 22:24:55,733 [Worker-152: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-08 22:24:55,734 [Worker-152: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\main\resources
+2022-09-08 22:24:55,736 [Worker-152: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-08 22:24:55,736 [Worker-152: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\test\resources
+2022-09-08 22:24:55,736 [Worker-152: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WebService
+2022-09-08 22:24:55,738 [Worker-152: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WebService
+2022-09-08 22:24:55,745 [Worker-152: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-09 18:30:57,388 [Worker-156: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:WebService:0.0.1-SNAPSHOT @ C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\pom.xml.
+2022-09-09 18:30:59,866 [Worker-156: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-09 18:30:59,867 [Worker-156: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\main\resources
+2022-09-09 18:30:59,869 [Worker-156: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-09 18:30:59,870 [Worker-156: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\test\resources
+2022-09-09 18:30:59,870 [Worker-156: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WebService
+2022-09-09 18:30:59,871 [Worker-156: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WebService
+2022-09-09 18:30:59,876 [Worker-156: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-09 18:32:21,232 [Worker-156: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-09-09 18:32:22,083 [Worker-156: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:DAO:0.0.1-SNAPSHOT @ C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\DAO\pom.xml.
+2022-09-09 18:32:22,202 [Worker-156: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:WebService:0.0.1-SNAPSHOT @ C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\pom.xml.
+2022-09-09 18:32:24,119 [Worker-156: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WebService/src/main/java
+2022-09-09 18:32:24,120 [Worker-156: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WebService/src/test/java
+2022-09-09 18:32:25,398 [Worker-156: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for WebService
+2022-09-09 18:32:25,438 [Worker-156: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2022-09-09 18:32:25,570 [Worker-159: Building Project WebService] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-09 18:32:25,571 [Worker-159: Building Project WebService] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\main\resources
+2022-09-09 18:32:25,579 [Worker-159: Building Project WebService] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-09 18:32:25,580 [Worker-159: Building Project WebService] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\test\resources
+2022-09-09 18:32:25,580 [Worker-159: Building Project WebService] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WebService
+2022-09-09 18:32:25,580 [Worker-159: Building Project WebService] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WebService
+2022-09-09 18:32:25,587 [Worker-159: Building Project WebService] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-09 18:32:25,950 [Worker-159: Building Project WebService] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-09 18:32:25,951 [Worker-159: Building Project WebService] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\DAO\src\main\resources
+2022-09-09 18:32:25,954 [Worker-159: Building Project WebService] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-09 18:32:25,954 [Worker-159: Building Project WebService] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\DAO\src\test\resources
+2022-09-09 18:38:32,677 [Worker-159: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-09 18:38:32,677 [Worker-159: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\main\resources
+2022-09-09 18:38:32,678 [Worker-159: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-09 18:38:32,679 [Worker-159: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\test\resources
+2022-09-09 19:05:02,271 [Worker-159: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-09 19:05:02,271 [Worker-159: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\main\resources
+2022-09-09 19:05:02,273 [Worker-159: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-09 19:05:02,273 [Worker-159: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\test\resources
+2022-09-09 19:11:58,689 [Worker-166: Creating project "parent"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.educacionit:parent:0.0.1-SNAPSHOT @ C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\parent\pom.xml.
+2022-09-09 19:12:28,367 [Worker-167: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-09 19:12:28,368 [Worker-167: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\main\resources
+2022-09-09 19:12:28,371 [Worker-167: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-09 19:12:28,371 [Worker-167: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\test\resources
+2022-09-09 19:17:53,366 [Worker-174: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.educacionit:parent:0.0.1-SNAPSHOT @ C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\parent\pom.xml.
+2022-09-09 19:19:56,735 [Worker-175: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.educacionit:parent:0.0.1-SNAPSHOT @ C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\parent\pom.xml.
+2022-09-09 19:20:03,810 [Worker-175: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.educacionit:parent:0.0.1-SNAPSHOT @ C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\parent\pom.xml.
+2022-09-09 19:20:08,077 [Worker-176: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.educacionit:parent:0.0.1-SNAPSHOT @ C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\parent\pom.xml.
+2022-09-09 19:23:52,617 [Worker-177: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:DAO:0.0.1-SNAPSHOT @ C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\DAO\pom.xml.
+2022-09-09 19:23:53,592 [Worker-177: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-09 19:23:53,593 [Worker-177: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\DAO\src\main\resources
+2022-09-09 19:23:53,596 [Worker-177: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-09 19:23:53,596 [Worker-177: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\DAO\src\test\resources
+2022-09-09 19:23:55,243 [Worker-176: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:DAO:0.0.1-SNAPSHOT @ C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\DAO\pom.xml.
+2022-09-09 19:23:55,745 [Worker-176: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-09 19:23:55,745 [Worker-176: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\DAO\src\main\resources
+2022-09-09 19:23:55,747 [Worker-176: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-09 19:23:55,748 [Worker-176: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\DAO\src\test\resources
+2022-09-09 19:44:18,612 [Worker-180: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:WebService:0.0.1-SNAPSHOT @ C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\pom.xml.
+2022-09-09 19:44:20,336 [Worker-180: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-09 19:44:20,337 [Worker-180: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\main\resources
+2022-09-09 19:44:20,339 [Worker-180: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-09 19:44:20,339 [Worker-180: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\test\resources
+2022-09-09 19:44:20,340 [Worker-180: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WebService
+2022-09-09 19:44:20,340 [Worker-180: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WebService
+2022-09-09 19:44:20,349 [Worker-180: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-09 19:47:44,458 [Worker-180: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:WebService:0.0.1-SNAPSHOT @ C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\pom.xml.
+2022-09-09 19:47:45,399 [Worker-180: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-09 19:47:45,400 [Worker-180: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\main\resources
+2022-09-09 19:47:45,402 [Worker-180: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-09 19:47:45,402 [Worker-180: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\test\resources
+2022-09-09 19:47:45,403 [Worker-180: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WebService
+2022-09-09 19:47:45,403 [Worker-180: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WebService
+2022-09-09 19:47:45,408 [Worker-180: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-09 19:47:46,678 [Worker-180: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:WebService:0.0.1-SNAPSHOT @ C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\pom.xml.
+2022-09-09 19:47:47,684 [Worker-180: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-09 19:47:47,684 [Worker-180: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\main\resources
+2022-09-09 19:47:47,687 [Worker-180: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-09 19:47:47,687 [Worker-180: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\test\resources
+2022-09-09 19:47:47,688 [Worker-180: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WebService
+2022-09-09 19:47:47,688 [Worker-180: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WebService
+2022-09-09 19:47:47,693 [Worker-180: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-09 19:52:02,819 [Worker-184: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-09-09 19:52:03,172 [Worker-185: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:WebService:0.0.1-SNAPSHOT @ C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\pom.xml.
+2022-09-09 19:52:03,204 [Worker-185: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-09-09 19:52:03,579 [Worker-185: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-09-09 19:52:04,251 [Worker-185: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-09-09 19:52:04,737 [Worker-185: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-09 19:52:04,738 [Worker-185: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\main\resources
+2022-09-09 19:52:04,740 [Worker-185: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-09 19:52:04,740 [Worker-185: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\test\resources
+2022-09-09 19:52:04,740 [Worker-185: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WebService
+2022-09-09 19:52:04,740 [Worker-185: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WebService
+2022-09-09 19:52:04,745 [Worker-185: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-09 19:52:05,340 [Worker-184: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-09 19:52:05,341 [Worker-184: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\DAO\src\main\resources
+2022-09-09 19:52:05,348 [Worker-184: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-09 19:52:05,348 [Worker-184: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\DAO\src\test\resources
+2022-09-09 19:52:05,702 [Worker-184: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-09-09 19:52:05,731 [Worker-184: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-09 19:52:05,731 [Worker-184: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\main\resources
+2022-09-09 19:52:05,733 [Worker-184: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-09 19:52:05,733 [Worker-184: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\test\resources
+2022-09-09 19:52:23,081 [Worker-186: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:WebService:0.0.1-SNAPSHOT @ C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\pom.xml.
+2022-09-09 19:52:23,117 [Worker-186: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-09-09 19:52:23,621 [Worker-186: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-09-09 19:52:23,749 [Worker-186: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-09 19:52:23,750 [Worker-186: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\main\resources
+2022-09-09 19:52:23,751 [Worker-186: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-09 19:52:23,752 [Worker-186: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\test\resources
+2022-09-09 19:52:23,752 [Worker-186: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WebService
+2022-09-09 19:52:23,752 [Worker-186: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WebService
+2022-09-09 19:52:23,757 [Worker-186: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-09 19:52:26,293 [Worker-186: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-09-09 19:52:27,118 [Worker-185: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:WebService:0.0.1-SNAPSHOT @ C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\pom.xml.
+2022-09-09 19:52:27,141 [Worker-185: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-09-09 19:52:27,784 [Worker-185: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-09-09 19:52:28,385 [Worker-185: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-09 19:52:28,385 [Worker-185: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\main\resources
+2022-09-09 19:52:28,387 [Worker-185: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-09 19:52:28,387 [Worker-185: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\test\resources
+2022-09-09 19:52:28,388 [Worker-185: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WebService
+2022-09-09 19:52:28,388 [Worker-185: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WebService
+2022-09-09 19:52:28,393 [Worker-185: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-09 20:01:04,762 [Worker-192: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-09-09 20:01:04,775 [Worker-192: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-09 20:01:04,775 [Worker-192: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\main\resources
+2022-09-09 20:01:04,779 [Worker-192: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-09 20:01:04,779 [Worker-192: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\test\resources
+2022-09-09 20:01:09,794 [Worker-193: Launching App (1)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier null to /DAO/target/classes
+2022-09-09 20:01:09,804 [Worker-193: Launching App (1)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier null to /DAO/target/classes
+2022-09-09 20:01:09,812 [Worker-193: Launching App (1)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier null to /DAO/target/classes
+2022-09-11 12:39:27,036 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-09-11 12:54:59,957 [Worker-16: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-09-11 12:55:03,862 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 12:55:03,862 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\main\resources
+2022-09-11 12:55:03,865 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 12:55:03,866 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\test\resources
+2022-09-11 12:56:00,035 [Worker-18: Launching App (1)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier null to /DAO/target/classes
+2022-09-11 12:56:00,061 [Worker-18: Launching App (1)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier null to /DAO/target/classes
+2022-09-11 12:56:00,100 [Worker-18: Launching App (1)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier null to /DAO/target/classes
+2022-09-11 13:07:29,112 [Worker-16: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:DAO:0.0.1-SNAPSHOT @ C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\DAO\pom.xml.
+2022-09-11 13:07:29,141 [Worker-16: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.educacionit:parent:0.0.1-SNAPSHOT @ C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\parent\pom.xml.
+2022-09-11 13:07:29,263 [Worker-16: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:WebService:0.0.1-SNAPSHOT @ C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\pom.xml.
+2022-09-11 13:07:29,280 [Worker-16: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-09-11 13:07:29,373 [Worker-16: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:DAO:0.0.1-SNAPSHOT @ C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\DAO\pom.xml.
+2022-09-11 13:07:29,457 [Worker-16: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:WebService:0.0.1-SNAPSHOT @ C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\pom.xml.
+2022-09-11 13:07:29,461 [Worker-16: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-09-11 13:07:29,782 [Worker-16: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-09-11 13:07:30,367 [Worker-16: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-09-11 13:07:33,310 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 13:07:33,310 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\DAO\src\main\resources
+2022-09-11 13:07:33,314 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 13:07:33,314 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\DAO\src\test\resources
+2022-09-11 13:07:33,354 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/microsoft/sqlserver/mssql-jdbc/8.4.0.jre14/mssql-jdbc-8.4.0.jre14-sources.jar
+2022-09-11 13:07:34,438 [Worker-24: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-09-11 13:07:34,467 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 13:07:34,467 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\main\resources
+2022-09-11 13:07:34,470 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 13:07:34,470 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\test\resources
+2022-09-11 13:07:34,598 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/microsoft/sqlserver/mssql-jdbc/8.4.0.jre14/mssql-jdbc-8.4.0.jre14-sources.jar
+2022-09-11 13:07:35,013 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.microsoft.sqlserver:mssql-jdbc:8.4.0.jre14
+2022-09-11 13:07:35,031 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.microsoft.sqlserver:mssql-jdbc:8.4.0.jre14
+2022-09-11 13:07:35,043 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.microsoft.sqlserver:mssql-jdbc:8.4.0.jre14
+2022-09-11 13:07:35,589 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 13:07:35,590 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\DAO\src\main\resources
+2022-09-11 13:07:35,592 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 13:07:35,593 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\DAO\src\test\resources
+2022-09-11 13:07:35,610 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 13:07:35,611 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\main\resources
+2022-09-11 13:07:35,614 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 13:07:35,615 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\test\resources
+2022-09-11 13:07:37,094 [Worker-25: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:DAO:0.0.1-SNAPSHOT @ C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\DAO\pom.xml.
+2022-09-11 13:07:37,132 [Worker-25: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.educacionit:parent:0.0.1-SNAPSHOT @ C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\parent\pom.xml.
+2022-09-11 13:07:37,290 [Worker-25: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:WebService:0.0.1-SNAPSHOT @ C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\pom.xml.
+2022-09-11 13:07:37,302 [Worker-25: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-09-11 13:07:38,217 [Worker-25: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-09-11 13:07:40,199 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 13:07:40,199 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\DAO\src\main\resources
+2022-09-11 13:07:40,202 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 13:07:40,203 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\DAO\src\test\resources
+2022-09-11 13:07:40,265 [Worker-16: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-09-11 13:07:40,540 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 13:07:40,540 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\main\resources
+2022-09-11 13:07:40,544 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 13:07:40,544 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\test\resources
+2022-09-11 13:09:34,015 [Worker-25: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-09-11 13:09:34,530 [Worker-25: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:DAO:0.0.1-SNAPSHOT @ C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\DAO\pom.xml.
+2022-09-11 13:09:34,550 [Worker-25: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.educacionit:parent:0.0.1-SNAPSHOT @ C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\parent\pom.xml.
+2022-09-11 13:09:34,615 [Worker-25: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:Sesiones:0.0.1-SNAPSHOT @ C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\Sesiones\pom.xml.
+2022-09-11 13:09:34,722 [Worker-25: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:WebService:0.0.1-SNAPSHOT @ C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\pom.xml.
+2022-09-11 13:09:34,730 [Worker-25: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-09-11 13:09:35,633 [Worker-25: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-09-11 13:09:36,369 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DAO/src/main/java
+2022-09-11 13:09:36,371 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DAO/src/test/java
+2022-09-11 13:09:36,497 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Sesiones/src/main/java
+2022-09-11 13:09:36,498 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Sesiones/src/test/java
+2022-09-11 13:09:37,966 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WebService/src/main/java
+2022-09-11 13:09:37,967 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WebService/src/test/java
+2022-09-11 13:09:38,530 [Worker-25: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Sesiones
+2022-09-11 13:09:38,592 [Worker-25: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for WebService
+2022-09-11 13:09:38,600 [Worker-25: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2022-09-11 13:09:39,637 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 13:09:39,638 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\DAO\src\main\resources
+2022-09-11 13:09:39,642 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 13:09:39,643 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\DAO\src\test\resources
+2022-09-11 13:09:41,556 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 13:09:41,556 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\Sesiones\src\main\resources
+2022-09-11 13:09:41,559 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 13:09:41,559 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\Sesiones\src\test\resources
+2022-09-11 13:09:41,560 [Worker-25: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Sesiones
+2022-09-11 13:09:41,561 [Worker-25: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Sesiones
+2022-09-11 13:09:41,570 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 13:09:41,989 [Worker-25: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-09-11 13:09:41,996 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 13:09:41,996 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\main\resources
+2022-09-11 13:09:41,998 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 13:09:41,998 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\test\resources
+2022-09-11 13:09:41,999 [Worker-25: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WebService
+2022-09-11 13:09:41,999 [Worker-25: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WebService
+2022-09-11 13:09:42,008 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 21:00:04,841 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 21:00:04,841 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\main\resources
+2022-09-11 21:00:04,853 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 21:00:04,854 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\test\resources
+2022-09-11 21:00:34,838 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 21:00:34,839 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\main\resources
+2022-09-11 21:00:34,841 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 21:00:34,842 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\test\resources
+2022-09-11 21:01:20,403 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 21:01:20,404 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\main\resources
+2022-09-11 21:01:20,412 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 21:01:20,413 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\test\resources
+2022-09-11 21:01:30,891 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 21:01:30,892 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\main\resources
+2022-09-11 21:01:30,894 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 21:01:30,895 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\test\resources
+2022-09-11 21:37:28,721 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 21:37:28,722 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\main\resources
+2022-09-11 21:37:28,725 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 21:37:28,725 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\test\resources
+2022-09-11 21:38:00,503 [Worker-34: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:WebService:0.0.1-SNAPSHOT @ C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\pom.xml.
+2022-09-11 21:38:00,656 [Worker-34: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-09-11 21:38:02,428 [Worker-34: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-09-11 21:38:03,219 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 21:38:03,219 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\main\resources
+2022-09-11 21:38:03,222 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 21:38:03,222 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\test\resources
+2022-09-11 21:38:03,222 [Worker-34: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WebService
+2022-09-11 21:38:03,222 [Worker-34: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WebService
+2022-09-11 21:38:03,226 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 21:38:25,815 [Worker-36: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-09-11 21:38:26,495 [Worker-30: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:WebService:0.0.1-SNAPSHOT @ C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\pom.xml.
+2022-09-11 21:38:26,509 [Worker-30: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-09-11 21:38:27,214 [Worker-30: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-09-11 21:38:27,641 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 21:38:27,641 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\main\resources
+2022-09-11 21:38:27,644 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 21:38:27,644 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\test\resources
+2022-09-11 21:38:27,644 [Worker-30: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WebService
+2022-09-11 21:38:27,645 [Worker-30: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WebService
+2022-09-11 21:38:27,649 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 21:41:07,184 [Worker-30: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-09-11 21:41:07,552 [Worker-30: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:WebService:0.0.1-SNAPSHOT @ C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\pom.xml.
+2022-09-11 21:41:07,572 [Worker-30: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-09-11 21:41:08,384 [Worker-30: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-09-11 21:41:08,945 [Worker-30: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WebService/src/main/java
+2022-09-11 21:41:08,946 [Worker-30: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WebService/src/test/java
+2022-09-11 21:41:09,743 [Worker-30: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for WebService
+2022-09-11 21:41:09,753 [Worker-30: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2022-09-11 21:41:10,218 [Worker-35: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-09-11 21:41:10,454 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 21:41:10,455 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\main\resources
+2022-09-11 21:41:10,458 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 21:41:10,458 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\test\resources
+2022-09-11 21:41:10,459 [Worker-35: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WebService
+2022-09-11 21:41:10,459 [Worker-35: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WebService
+2022-09-11 21:41:10,465 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 21:48:35,746 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 21:48:35,746 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\DAO\src\main\resources
+2022-09-11 21:48:35,748 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 21:48:35,748 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\DAO\src\test\resources
+2022-09-11 21:48:35,758 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 21:48:35,759 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\Sesiones\src\main\resources
+2022-09-11 21:48:35,761 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 21:48:35,761 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\Sesiones\src\test\resources
+2022-09-11 21:48:35,771 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 21:48:35,771 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\main\resources
+2022-09-11 21:48:35,773 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 21:48:35,773 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\test\resources
+2022-09-11 21:49:04,853 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 21:49:04,854 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\DAO\src\main\resources
+2022-09-11 21:49:04,856 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 21:49:04,856 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\DAO\src\test\resources
+2022-09-11 21:49:06,233 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 21:49:06,233 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\Sesiones\src\main\resources
+2022-09-11 21:49:06,236 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 21:49:06,236 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\Sesiones\src\test\resources
+2022-09-11 21:49:06,283 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 21:49:06,284 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\main\resources
+2022-09-11 21:49:06,286 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 21:49:06,286 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\test\resources
+2022-09-11 21:49:16,388 [Worker-42: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-09-11 21:49:16,892 [Worker-42: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:WebService:0.0.1-SNAPSHOT @ C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\pom.xml.
+2022-09-11 21:49:16,917 [Worker-42: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-09-11 21:49:17,833 [Worker-42: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-09-11 21:49:18,160 [Worker-42: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WebService/src/main/java
+2022-09-11 21:49:18,161 [Worker-42: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WebService/src/test/java
+2022-09-11 21:49:18,689 [Worker-42: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for WebService
+2022-09-11 21:49:18,719 [Worker-42: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2022-09-11 21:49:18,976 [Worker-42: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-09-11 21:49:19,794 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 21:49:19,795 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\main\resources
+2022-09-11 21:49:19,800 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 21:49:19,800 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\test\resources
+2022-09-11 21:49:19,801 [Worker-42: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WebService
+2022-09-11 21:49:19,801 [Worker-42: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WebService
+2022-09-11 21:49:19,809 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 21:50:33,892 [Worker-35: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-09-11 21:50:34,305 [Worker-35: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:WebService:0.0.1-SNAPSHOT @ C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\pom.xml.
+2022-09-11 21:50:34,327 [Worker-35: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-09-11 21:50:35,203 [Worker-35: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-09-11 21:50:35,521 [Worker-35: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WebService/src/main/java
+2022-09-11 21:50:35,521 [Worker-35: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WebService/src/test/java
+2022-09-11 21:50:36,009 [Worker-35: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for WebService
+2022-09-11 21:50:36,021 [Worker-35: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2022-09-11 21:50:36,296 [Worker-39: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-09-11 21:50:36,666 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 21:50:36,667 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\main\resources
+2022-09-11 21:50:36,669 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 21:50:36,670 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\test\resources
+2022-09-11 21:50:36,670 [Worker-39: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WebService
+2022-09-11 21:50:36,671 [Worker-39: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WebService
+2022-09-11 21:50:36,677 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 21:50:37,743 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 21:50:37,743 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\main\resources
+2022-09-11 21:50:37,745 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 21:50:37,745 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\test\resources
+2022-09-11 21:51:30,063 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 21:51:30,063 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\main\resources
+2022-09-11 21:51:30,066 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 21:51:30,067 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\test\resources
+2022-09-11 21:52:07,478 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 21:52:07,479 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\main\resources
+2022-09-11 21:52:07,481 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 21:52:07,481 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\test\resources
+2022-09-11 21:52:23,371 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 21:52:23,371 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\main\resources
+2022-09-11 21:52:23,373 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 21:52:23,374 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\test\resources
+2022-09-11 21:52:36,367 [Worker-35: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-09-11 21:52:36,677 [Worker-35: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:WebService:0.0.1-SNAPSHOT @ C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\pom.xml.
+2022-09-11 21:52:36,693 [Worker-35: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-09-11 21:52:37,424 [Worker-35: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-09-11 21:52:37,726 [Worker-35: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WebService/src/main/java
+2022-09-11 21:52:37,727 [Worker-35: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WebService/src/test/java
+2022-09-11 21:52:38,533 [Worker-35: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for WebService
+2022-09-11 21:52:38,541 [Worker-35: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2022-09-11 21:52:39,009 [Worker-35: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-09-11 21:52:39,303 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 21:52:39,304 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\main\resources
+2022-09-11 21:52:39,308 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 21:52:39,308 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\test\resources
+2022-09-11 21:52:39,309 [Worker-35: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WebService
+2022-09-11 21:52:39,309 [Worker-35: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WebService
+2022-09-11 21:52:39,314 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 22:17:10,665 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 22:17:10,666 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\DAO\src\main\resources
+2022-09-11 22:17:10,668 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 22:17:10,668 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\DAO\src\test\resources
+2022-09-11 22:17:10,676 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 22:17:10,676 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\Sesiones\src\main\resources
+2022-09-11 22:17:10,679 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 22:17:10,679 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\Sesiones\src\test\resources
+2022-09-11 22:17:10,689 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 22:17:10,689 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\main\resources
+2022-09-11 22:17:10,691 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 22:17:10,691 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\test\resources
+2022-09-11 22:17:14,489 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 22:17:14,489 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\DAO\src\main\resources
+2022-09-11 22:17:14,491 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 22:17:14,491 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\DAO\src\test\resources
+2022-09-11 22:17:14,611 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 22:17:14,611 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\Sesiones\src\main\resources
+2022-09-11 22:17:14,613 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 22:17:14,613 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\Sesiones\src\test\resources
+2022-09-11 22:17:14,674 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 22:17:14,674 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\main\resources
+2022-09-11 22:17:14,677 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 22:17:14,677 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\test\resources
+2022-09-11 22:17:24,704 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-09-11 22:17:25,111 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:WebService:0.0.1-SNAPSHOT @ C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\pom.xml.
+2022-09-11 22:17:25,132 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-09-11 22:17:25,707 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-09-11 22:17:25,963 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WebService/src/main/java
+2022-09-11 22:17:25,963 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WebService/src/test/java
+2022-09-11 22:17:26,869 [Worker-40: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for WebService
+2022-09-11 22:17:26,877 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2022-09-11 22:17:27,222 [Worker-40: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-09-11 22:17:27,503 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 22:17:27,504 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\main\resources
+2022-09-11 22:17:27,507 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 22:17:27,508 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\test\resources
+2022-09-11 22:17:27,508 [Worker-40: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WebService
+2022-09-11 22:17:27,508 [Worker-40: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WebService
+2022-09-11 22:17:27,515 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 22:17:37,406 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 22:17:37,406 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\main\resources
+2022-09-11 22:17:37,408 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 22:17:37,408 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\test\resources
+2022-09-11 22:19:20,572 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 22:19:20,573 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\main\resources
+2022-09-11 22:19:20,576 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 22:19:20,576 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\test\resources
+2022-09-11 22:19:25,879 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 22:19:25,880 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\main\resources
+2022-09-11 22:19:25,882 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 22:19:25,882 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\test\resources
+2022-09-11 22:23:50,142 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 22:23:50,143 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\main\resources
+2022-09-11 22:23:50,145 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 22:23:50,146 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\test\resources
+2022-09-11 22:23:52,913 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 22:23:52,913 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\main\resources
+2022-09-11 22:23:53,036 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 22:23:53,037 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\test\resources
+2022-09-11 22:24:40,017 [Worker-51: Launching App (1)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier null to /DAO/target/classes
+2022-09-11 22:24:54,593 [Worker-51: Launching App (1)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier null to /DAO/target/classes
+2022-09-11 22:25:06,855 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 22:25:06,856 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\main\resources
+2022-09-11 22:25:06,858 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-11 22:25:06,859 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\test\resources
+2022-09-11 22:25:11,016 [Worker-54: Launching App (1)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier null to /DAO/target/classes

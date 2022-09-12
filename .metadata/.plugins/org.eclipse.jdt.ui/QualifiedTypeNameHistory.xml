@@ -11,6 +11,7 @@
     <fullyQualifiedTypeName name="java.net.InetAddress"/>
     <fullyQualifiedTypeName name="com.educacionit.interfaces.DAO"/>
     <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
-    <fullyQualifiedTypeName name="java.util.Date"/>
     <fullyQualifiedTypeName name="com.educacionit.interfaces.UtilidadesFecha"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="com.educacionit.implementacion.mysql.UsuarioImplementacion"/>
 </qualifiedTypeNameHistroy>

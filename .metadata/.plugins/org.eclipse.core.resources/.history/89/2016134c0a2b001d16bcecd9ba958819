@@ -1,7 +1,0 @@
-package com.educacionit.implementacion.mysql;
-
-import com.educacionit.interfaces.DAO;
-
-public class Practica implements DAO<Usuario, K> {
-
-}
