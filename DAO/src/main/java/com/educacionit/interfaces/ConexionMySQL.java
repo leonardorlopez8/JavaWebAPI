@@ -41,20 +41,23 @@ public interface ConexionMySQL {
 			// luego de crear el objeto propiedades y el correspondiente archivo
 			// database.properties le asignamos a cada
 			// variable el valor correspondiente
-
+			Class.forName(propiedades.getProperty("driver"));
+			
 			String URL = propiedades.getProperty("url");
 			String USER = propiedades.getProperty("user");
 			String PASS = propiedades.getProperty("pass");
 			conexion = DriverManager.getConnection(URL, USER, PASS);
 
+			
+			
+			
 		} catch (SQLException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		} catch (FileNotFoundException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (ClassNotFoundException e) {
 			e.printStackTrace();
 		}
 

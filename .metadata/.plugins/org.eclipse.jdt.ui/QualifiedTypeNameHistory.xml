@@ -13,5 +13,9 @@
     <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
     <fullyQualifiedTypeName name="com.educacionit.interfaces.UtilidadesFecha"/>
     <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="javax.jws.WebService"/>
+    <fullyQualifiedTypeName name="javax.xml.ws.Endpoint"/>
     <fullyQualifiedTypeName name="com.educacionit.implementacion.mysql.UsuarioImplementacion"/>
+    <fullyQualifiedTypeName name="com.educacionit.servicios.UsuarioServicio"/>
+    <fullyQualifiedTypeName name="javax.jws.WebMethod"/>
 </qualifiedTypeNameHistroy>

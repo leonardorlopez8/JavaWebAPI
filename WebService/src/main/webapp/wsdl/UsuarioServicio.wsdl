@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wsdl:definitions targetNamespace="http://servicios.educacionit.com" xmlns:apachesoap="http://xml.apache.org/xml-soap" xmlns:impl="http://servicios.educacionit.com" xmlns:intf="http://servicios.educacionit.com" xmlns:tns1="http://entidades.educacionit.com" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:wsdlsoap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<!--WSDL created by Apache Axis version: 1.4
+Built on Apr 22, 2006 (06:55:48 PDT)-->
+ <wsdl:types>
+  <schema elementFormDefault="qualified" targetNamespace="http://servicios.educacionit.com" xmlns="http://www.w3.org/2001/XMLSchema">
+   <import namespace="http://entidades.educacionit.com"/>
+   <element name="agregar">
+    <complexType>
+     <sequence>
+      <element name="usuario" type="tns1:Usuario"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="agregarResponse">
+    <complexType>
+     <sequence>
+      <element name="agregarReturn" type="xsd:boolean"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="listar">
+    <complexType/>
+   </element>
+   <element name="listarResponse">
+    <complexType>
+     <sequence>
+      <element maxOccurs="unbounded" name="listarReturn" type="tns1:Usuario"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="eliminar">
+    <complexType>
+     <sequence>
+      <element name="usuario" type="tns1:Usuario"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="eliminarResponse">
+    <complexType>
+     <sequence>
+      <element name="eliminarReturn" type="xsd:boolean"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="buscar">
+    <complexType>
+     <sequence>
+      <element name="correo" type="xsd:string"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="buscarResponse">
+    <complexType>
+     <sequence>
+      <element name="buscarReturn" type="tns1:Usuario"/>
+     </sequence>
+    </complexType>
+   </element>
+  </schema>
+  <schema elementFormDefault="qualified" targetNamespace="http://entidades.educacionit.com" xmlns="http://www.w3.org/2001/XMLSchema">
+   <complexType name="Usuario">
+    <sequence>
+     <element name="clave" nillable="true" type="xsd:string"/>
+     <element name="correo" nillable="true" type="xsd:string"/>
+     <element name="fechaActualizacion" nillable="true" type="xsd:dateTime"/>
+     <element name="fechaCreacion" nillable="true" type="xsd:dateTime"/>
+    </sequence>
+   </complexType>
+  </schema>
+ </wsdl:types>
+
+   <wsdl:message name="listarResponse">
+
+      <wsdl:part element="impl:listarResponse" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="eliminarResponse">
+
+      <wsdl:part element="impl:eliminarResponse" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="buscarRequest">
+
+      <wsdl:part element="impl:buscar" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="agregarRequest">
+
+      <wsdl:part element="impl:agregar" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="agregarResponse">
+
+      <wsdl:part element="impl:agregarResponse" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="buscarResponse">
+
+      <wsdl:part element="impl:buscarResponse" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="listarRequest">
+
+      <wsdl:part element="impl:listar" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="eliminarRequest">
+
+      <wsdl:part element="impl:eliminar" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:portType name="UsuarioServicio">
+
+      <wsdl:operation name="agregar">
+
+         <wsdl:input message="impl:agregarRequest" name="agregarRequest">
+
+       </wsdl:input>
+
+         <wsdl:output message="impl:agregarResponse" name="agregarResponse">
+
+       </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="listar">
+
+         <wsdl:input message="impl:listarRequest" name="listarRequest">
+
+       </wsdl:input>
+
+         <wsdl:output message="impl:listarResponse" name="listarResponse">
+
+       </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="eliminar">
+
+         <wsdl:input message="impl:eliminarRequest" name="eliminarRequest">
+
+       </wsdl:input>
+
+         <wsdl:output message="impl:eliminarResponse" name="eliminarResponse">
+
+       </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="buscar">
+
+         <wsdl:input message="impl:buscarRequest" name="buscarRequest">
+
+       </wsdl:input>
+
+         <wsdl:output message="impl:buscarResponse" name="buscarResponse">
+
+       </wsdl:output>
+
+      </wsdl:operation>
+
+   </wsdl:portType>
+
+   <wsdl:binding name="UsuarioServicioSoapBinding" type="impl:UsuarioServicio">
+
+      <wsdlsoap:binding style="document" transport="http://schemas.xmlsoap.org/soap/http"/>
+
+      <wsdl:operation name="agregar">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="agregarRequest">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="agregarResponse">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="listar">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="listarRequest">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="listarResponse">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="eliminar">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="eliminarRequest">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="eliminarResponse">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="buscar">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="buscarRequest">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="buscarResponse">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+   </wsdl:binding>
+
+   <wsdl:service name="UsuarioServicioService">
+
+      <wsdl:port binding="impl:UsuarioServicioSoapBinding" name="UsuarioServicio">
+
+         <wsdlsoap:address location="http://localhost:8081/WebService/services/UsuarioServicio"/>
+
+      </wsdl:port>
+
+   </wsdl:service>
+
+</wsdl:definitions>
