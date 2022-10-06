@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService"/>
 			<item value="C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\Sesiones"/>
 			<item value="C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\Servers"/>
 			<item value="C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\practica"/>
@@ -28,10 +29,15 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.educacionit.Rest"/>
+			<item value="com.educacionit.WebServiceClient"/>
 		</list>
 		<list key="groupId">
+			<item value="com.educacionit"/>
 		</list>
 		<list key="artifactId">
+			<item value="Rest"/>
+			<item value="WebServiceClient"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -47,12 +53,10 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
-			<item value="com.educacionit"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="parent"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -87,7 +91,7 @@
 	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
 		<item key="width" value="480"/>
 		<item key="height" value="529"/>
-		<item key="x" value="443"/>
-		<item key="y" value="12"/>
+		<item key="x" value="2562"/>
+		<item key="y" value="190"/>
 	</section>
 </section>

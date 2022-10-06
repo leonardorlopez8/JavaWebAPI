@@ -1,6 +1,0 @@
-com\educacionit\DAO\App.class
-com\educacionit\interfaces\DAO.class
-com\educacionit\interfaces\UtilidadesFecha.class
-com\educacionit\entidades\Usuario.class
-com\educacionit\interfaces\ConexionMySQL.class
-com\educacionit\implementacion\mysql\UsuarioImplementacion.class

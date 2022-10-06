@@ -12,10 +12,16 @@
     <fullyQualifiedTypeName name="com.educacionit.interfaces.DAO"/>
     <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
     <fullyQualifiedTypeName name="com.educacionit.interfaces.UtilidadesFecha"/>
-    <fullyQualifiedTypeName name="java.util.Date"/>
     <fullyQualifiedTypeName name="javax.jws.WebService"/>
     <fullyQualifiedTypeName name="javax.xml.ws.Endpoint"/>
     <fullyQualifiedTypeName name="com.educacionit.implementacion.mysql.UsuarioImplementacion"/>
     <fullyQualifiedTypeName name="com.educacionit.servicios.UsuarioServicio"/>
     <fullyQualifiedTypeName name="javax.jws.WebMethod"/>
+    <fullyQualifiedTypeName name="com.mysql.jdbc.Driver"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="org.tempuri.CalculatorSoapProxy"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.ApplicationPath"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.GET"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.core.MediaType"/>
 </qualifiedTypeNameHistroy>

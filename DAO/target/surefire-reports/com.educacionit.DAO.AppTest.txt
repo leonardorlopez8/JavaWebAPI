@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.educacionit.DAO.AppTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.107 s - in com.educacionit.DAO.AppTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.072 s - in com.educacionit.DAO.AppTest
