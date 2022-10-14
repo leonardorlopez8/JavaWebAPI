@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\Rest"/>
 			<item value="C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService"/>
 			<item value="C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\Sesiones"/>
 			<item value="C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\Servers"/>
@@ -29,15 +30,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="com.educacionit.Rest"/>
-			<item value="com.educacionit.WebServiceClient"/>
+			<item value="com.educacionit.RestClient"/>
 		</list>
 		<list key="groupId">
 			<item value="com.educacionit"/>
 		</list>
 		<list key="artifactId">
-			<item value="Rest"/>
-			<item value="WebServiceClient"/>
+			<item value="RestClient"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
