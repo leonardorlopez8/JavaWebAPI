@@ -5293,3 +5293,28 @@ org.eclipse.core.runtime.CoreException: Could not read maven project
 2022-10-20 21:32:13,147 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\RestClient\src\main\resources
 2022-10-20 21:32:13,149 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-10-20 21:32:13,150 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\RestClient\src\test\resources
+2022-10-22 16:55:05,381 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-10-22 16:55:33,666 [Worker-15: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-10-22 16:55:40,185 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-22 16:55:40,185 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\Rest\src\main\resources
+2022-10-22 16:55:40,191 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-22 16:55:40,192 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\Rest\src\test\resources
+2022-10-26 19:58:23,456 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-10-26 19:58:54,444 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 19:58:54,450 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\DAO\src\main\resources
+2022-10-26 19:58:54,456 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 19:58:54,456 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\DAO\src\test\resources
+2022-10-26 19:59:01,755 [Worker-4: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-10-26 19:59:02,311 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 19:59:02,311 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\Rest\src\main\resources
+2022-10-26 19:59:02,315 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 19:59:02,315 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\Rest\src\test\resources
+2022-10-26 19:59:07,461 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 19:59:07,461 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\Sesiones\src\main\resources
+2022-10-26 19:59:07,464 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 19:59:07,465 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\Sesiones\src\test\resources
+2022-10-26 19:59:08,374 [Worker-4: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-10-26 19:59:08,402 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 19:59:08,403 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\main\resources
+2022-10-26 19:59:08,427 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 19:59:08,436 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace\WebService\src\test\resources
