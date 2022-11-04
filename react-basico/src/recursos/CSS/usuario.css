@@ -1,6 +1,9 @@
 .tarjeta{
-   width: 40%;
+   position: relative;
+   float: left;
+   width: 33%;
    padding:auto;
+   margin: auto;
 } 
 
 .boton{
@@ -11,6 +14,7 @@
    border-radius: 4px;
    cursor: pointer;
    margin: 2px;
+   padding: auto;
 }
 
 .boton:hover{

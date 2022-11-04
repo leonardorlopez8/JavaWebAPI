@@ -1,4 +1,6 @@
 import React from "react";
+import '../recursos/CSS/form.css';
+import '../recursos/CSS/button.css';
 
 export default class Formulario extends React.Component {
 
@@ -10,24 +12,39 @@ export default class Formulario extends React.Component {
             email: ""
         }
     }
-    
+
     //la funcion puede recibir una propiedad y un valor
-    asignarValoresFormularioOld=(propiedad, valor)=>{ //llamada: asignarValoresFormulario(first_name, octavio)
+    asignarValoresFormularioOld = (propiedad, valor) => { //llamada: asignarValoresFormulario(first_name, octavio)
         let estado = {}
         estado[propiedad] = valor;
         this.setState(estado);
     }
 
-    asignarValoresFormulario=(event)=>{ 
-      this.setState({
-        [event.target.name]: event.target.value
-      })
+    asignarValoresFormulario = (event) => {
+        this.setState({
+            [event.target.name]: event.target.value
+        })
+    }
+
+    enviarValoresFormulario = (event) => {
+        event.preventDefault();
+        //recibe una propiedad con una funcion
+        this.props.agregarUsuario(this.state.email, this.state.first_name, this.state.last_name);
+        this.limpiarValoresFormulario();
+    }
+
+    limpiarValoresFormulario=()=>{
+        this.setState({
+            first_name: "",
+            last_name: "",
+            email: ""
+        });
     }
 
     render() {
         return (
             <>
-                <form>
+                <form onSubmit={this.enviarValoresFormulario}>
                     <input
                         id="first_name"
                         name="first_name"
@@ -38,7 +55,7 @@ export default class Formulario extends React.Component {
                         //llamada a la funcion asignarValoresFormulario()
                         //recibe un evento y voy a invocar a 
                         onChange={this.asignarValoresFormulario}
-                       
+
                     />
                     <input
                         id="last_name"
@@ -62,8 +79,8 @@ export default class Formulario extends React.Component {
                     />
 
                     <div>
-                        <button type="submit">Agregar Usuario</button>
-                        <button type="reset">Limpiar Formulario</button>
+                        <button className="success" type="submit">Agregar Usuario</button>
+                        <button className="warning"  onClick={this.limpiarValoresFormulario} type="reset">Limpiar Formulario</button>
                     </div>
 
                 </form>
