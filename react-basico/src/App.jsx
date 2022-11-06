@@ -2,6 +2,8 @@ import React, { Component } from "react";
 import Avatar from "./recursos/imagenes/avatar.png";
 import Formulario from "./Componentes/Formulario";
 import Usuario from "./Componentes/Usuario";
+import { BrowserRouter, NavLink, Route, Routes } from 'react-router-dom';
+import './recursos/CSS/menu.css';
 
 class App extends Component {
     constructor(props) {
@@ -34,7 +36,7 @@ class App extends Component {
             avatar: Avatar
         }
         this.agregarUsuarioAPI(usuario);
-        
+
     }
 
     //recibe un usuario
@@ -45,36 +47,48 @@ class App extends Component {
             body: JSON.stringify(usuario),
             //y si quiero le paso el header
             headers: {
-                "Content-Type" : "application/json"
+                "Content-Type": "application/json"
             }
         }
         //y ahora hago mi peticion fetch
         fetch(URL, HEADER).
-        then((response) => response.json()).
-        then((json) => this.setState({ usuarios: [...this.state.usuarios, json]})).
-        catch((error) => console.log(error));  
-        
+            then((response) => response.json()).
+            then((json) => this.setState({ usuarios: [...this.state.usuarios, json] })).
+            catch((error) => console.log(error));
+
     }
 
     render() {
         return (
             <>
-                <Formulario agregarUsuario={this.agregarUsuarioArreglo} />
-                {this.state.usuarios.map((e) =>
-                    <Usuario
-                        key={e.id}
-                        id={e.id}
-                        email={e.email}
-                        first_name={e.first_name}
-                        last_name={e.last_name}
-                        avatar={e.avatar}
+                <BrowserRouter>
 
+                    <nav className="menu">
+                        <NavLink className="enlace" activeClassName="activo" to="/formulario">Formulario</NavLink>
+                        <NavLink className="enlace" activeClassName="activo" to="/usuarios">Usuarios</NavLink>
 
-                    />
+                    </nav>
 
-                )}
+                    <Routes>
+                        <Route index element={<h1>Bienvenidos</h1>} />
+                        <Route path="/formulario" element={<Formulario agregarUsuario={this.agregarUsuarioArreglo} />} />
+                        <Route path="/usuarios" element={
+                            this.state.usuarios.map((e) =>
+                                <Usuario
+                                    key={e.id}
+                                    id={e.id}
+                                    email={e.email}
+                                    first_name={e.first_name}
+                                    last_name={e.last_name}
+                                    avatar={e.avatar}
+                                />
+                            )
+                        } />
+
+                        
+                    </Routes>
+                </BrowserRouter>
             </>
-
         );
     }
 }
